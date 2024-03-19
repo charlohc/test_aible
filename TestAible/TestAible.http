@@ -1,0 +1,6 @@
+@TestAible_HostAddress = http://localhost:5062
+
+GET {{TestAible_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
